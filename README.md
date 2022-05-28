@@ -1,7 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
-<div> <!-- style="font-family:Lato">-->
 # Hello, I'm Hamish ☺
  [![General badge](https://img.shields.io/badge/Connect-With%20Me-3437eb?logo=linkedin)](https://uk.linkedin.com/in/hamish-starling-147859235")
  [![General badge](https://img.shields.io/badge/Compare-Streaks-0cb01d?logo=duolingo)](https://www.duolingo.com/u/215135135)
