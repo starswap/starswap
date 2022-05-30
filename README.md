@@ -32,9 +32,9 @@ Here are some things I've been doing this year:</p>
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td style="text-align: center;"> <a href="https://wbgslookingglass.blogspot.com/">WBGS Looking Glass</a></td>
-		<td style="text-align: center;" width="33%"> <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a></td>
-		<td style="text-align: center;" width="33%"> <a href="https://github.com/starswap/M3Challenge">M3 Challenge Report</a></td>
+		<td align="center"> <a href="https://wbgslookingglass.blogspot.com/">WBGS Looking Glass</a></td>
+		<td align="center" width="33%"> <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a></td>
+		<td align="center" width="33%"> <a href="https://github.com/starswap/M3Challenge">M3 Challenge Report</a></td>
 	</tr>
 </table>
 
