@@ -5,7 +5,7 @@
  
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
-- Riding on trains 🚇
+- Riding on trains 🚈
 - Learning Languages 🇫🇷 🇪🇸
 - Playing sport 🤽
 
