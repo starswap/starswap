@@ -3,8 +3,6 @@
  [![General badge](https://img.shields.io/badge/Compare-Streaks-0cb01d?logo=duolingo)](https://www.duolingo.com/u/215135135)
  [![General badge](https://img.shields.io/badge/Contact-Me-f00202?logo=gmail&labelColor=white)](mailto:hamishstarling@hotmail.co.uk)
  
-Thanks for taking a look at my profile.
-
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
 - Riding on trains 🚇
@@ -20,6 +18,28 @@ Here are some things I've been doing this year:</p>
 </ul>
 
 </div>
+
+<table>
+	<tr>
+		<td width="33%" style="text-align: center;">
+			<img src="https://github.com/starswap/starswap/blob/main/LookingGlassScreenshot.png?raw=true" width=100% />
+		</td>
+		<td width="33%" style="text-align: center;">
+			<img src="https://github.com/starswap/starswap/blob/main/MLIDE.png?raw=true" width=100% />
+		</td>
+		<td width="33%" style="text-align: center;">
+			<img src="https://github.com/starswap/starswap/blob/main/M3%20Screenshot.png?raw=true" width=100% />
+		</td>
+	</tr>
+	<tr style="text-align: center;">
+		<td style="text-align: center;"> <a href="https://wbgslookingglass.blogspot.com/">WBGS Looking Glass</a></td>
+		<td style="text-align: center;" width="33%"> <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a></td>
+		<td style="text-align: center;" width="33%"> <a href="https://github.com/starswap/M3Challenge">M3 Challenge Report</a></td>
+	</tr>
+</table>
+
+#### Currently Reading
+I'm currently reading Let Over Lambda by Doug Hoyte.
 
 <!--
 **starswap/starswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
