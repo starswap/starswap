@@ -16,7 +16,7 @@ Here are some things I've been doing this year:</p>
 <ul>
 <li>Tinkering with my school's <a href="https://wbgslookingglass.blogspot.com/"> Academic Blog 📝</a>
 <li>A Level CS NEA Project: <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a> 👨‍💻
-<li>MathWorks Math Modeling Challenge UK Winners (Wearing the free 👕 in my avatar photo!)</li>
+<li><a href="m3challenge.siam.org">MathWorks Math Modeling Challenge</a> UK Winners (Wearing the free 👕 in my avatar photo!)</li>
 </ul>
 
 </div>
