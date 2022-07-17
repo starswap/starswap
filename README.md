@@ -15,6 +15,7 @@ Here are some things I've been doing this year:</p>
 <li>Tinkering with my school's <a href="https://wbgslookingglass.blogspot.com/"> Academic Blog 📝</a>
 <li>A Level CS NEA Project: <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a> 👨‍💻
 <li><a href="https://m3challenge.siam.org">MathWorks Math Modeling Challenge</a> UK Winner</li>
+<li>Participating in <a href="https://mlh.io/">Hackathons</a> with friends!</li>
 </ul>
 
 </div>
