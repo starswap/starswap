@@ -2,6 +2,8 @@
  [![General badge](https://img.shields.io/badge/Connect-With%20Me-3437eb?logo=linkedin)](https://uk.linkedin.com/in/hamish-starling-147859235)
  [![General badge](https://img.shields.io/badge/Compare-Streaks-0cb01d?logo=duolingo)](https://www.duolingo.com/u/215135135)
  [![General badge](https://img.shields.io/badge/Contact-Me-f00202?logo=gmail&labelColor=white)](mailto:hamishstarling@hotmail.co.uk)
+ [![General badge](https://tinyurl.com/y4b24vw2)](https://open.kattis.com/users/hamish-starling)
+
  
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
