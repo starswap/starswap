@@ -42,7 +42,7 @@ Here are some things I've been doing this year:</p>
 </table>
 
 #### Currently Reading
-I'm currently reading: **Let Over Lambda** by **Doug Hoyte**.
+I'm currently reading: **On Lisp** by **Paul Graham**.
 
 <!--
 **starswap/starswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
