@@ -8,15 +8,15 @@
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
 - Riding on trains 🚈
-- Learning Languages (🇫🇷 🇪🇸)
+- Learning Languages (🇫🇷 🇰🇷)
 - Playing sport 🤽
 
 ### My Work
-Here are some things I've been doing this year:</p>
+Here are some things I've been doing recently:</p>
 <ul>
-<li>Tinkering with my school's <a href="https://wbgslookingglass.blogspot.com/"> Academic Blog 📝</a>
-<li>A Level CS NEA Project: <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a> 👨‍💻
-<li><a href="https://m3challenge.siam.org">MathWorks Math Modeling Challenge</a> UK Winner</li>
+<li>Competitive Programming: <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a> 👨‍💻
+<li>Practicing MERN Stack with my: <a href="https://website-change-alert.vercel.app/">Website Change Alert Project</a>
+<li>Starting my degree at <a href="https://www.doc.ic.ac.uk/~hs1522/">Imperial College</a></li>
 <li>Participating in <a href="https://mlh.io/">Hackathons</a> with friends!</li>
 </ul>
 
@@ -25,25 +25,26 @@ Here are some things I've been doing this year:</p>
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://github.com/starswap/starswap/blob/main/LookingGlassScreenshot.png?raw=true" width=100% />
+			<img src="https://codeforces.com/predownloaded/47/51/4751e1ebf0953b936928950b80bde1c95d3c9a42.png" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://github.com/starswap/starswap/blob/main/MLIDE.png?raw=true" width=100% />
+			<img src="https://github.com/starswap/WebsiteChangeAlert/blob/main/Main_Screen.png" width=100% />
 		</td>
-		<td width="33%" style="text-align: center;">
+		<!--<td width="33%" style="text-align: center;">
 			<img src="https://github.com/starswap/starswap/blob/main/M3%20Screenshot.png?raw=true" width=100% />
-		</td>
+		</td>--->
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center"> <a href="https://wbgslookingglass.blogspot.com/">WBGS Looking Glass</a></td>
-		<td align="center" width="33%"> <a href="https://github.com/starswap/MLProgrammingIDE">ML Programming IDE</a></td>
-		<td align="center" width="33%"> <a href="https://github.com/starswap/M3Challenge">M3 Challenge Report</a></td>
+		<td align="center" width="33%"> <a href="https://github.com/starswap/MLProgrammingIDE">Meta Hacker Cup</a></td>
+		<td align="center"> <a href="https://website-change-alert.vercel.app/">Website Change Alert</a></td>
+		<!--<td align="center" width="33%"> <a href="https://github.com/starswap/M3Challenge">M3 Challenge Report</a></td>-->
 	</tr>
 </table>
 
+<!--
 #### Currently Reading
 I'm currently reading: **On Lisp** by **Paul Graham**.
-
+-->
 <!--
 **starswap/starswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
