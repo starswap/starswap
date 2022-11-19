@@ -30,14 +30,14 @@ Here are some things I've been doing recently:</p>
 		<td width="33%" style="text-align: center;">
 			<img src="https://github.com/starswap/WebsiteChangeAlert/blob/main/Main_Screen.png" width=100% />
 		</td>
-		<!--<td width="33%" style="text-align: center;">
-			<img src="https://github.com/starswap/starswap/blob/main/M3%20Screenshot.png?raw=true" width=100% />
-		</td>--->
+		<td width="33%" style="text-align: center;">
+			<img src="https://pxl-imperialacuk.terminalfour.net/fit-in/453x290/prod01/channel_2/media/migration/media/sign_news_releases--tojpeg_1584977567570_x4.jpg" width=100% />
+		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"> <a href="https://github.com/starswap/MLProgrammingIDE">Meta Hacker Cup</a></td>
+		<td align="center" width="33%"> <a href="https://www.facebook.com/codingcompetitions/hacker-cup">Meta Hacker Cup</a></td>
 		<td align="center"> <a href="https://website-change-alert.vercel.app/">Website Change Alert</a></td>
-		<!--<td align="center" width="33%"> <a href="https://github.com/starswap/M3Challenge">M3 Challenge Report</a></td>-->
+		<td align="center" width="33%"> <a href="https://www.imperial.ac.uk/computing/">Imperial College London</a></td>
 	</tr>
 </table>
 
