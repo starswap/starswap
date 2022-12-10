@@ -8,14 +8,14 @@
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
 - Riding on trains 🚈
-- Learning Languages (🇫🇷 🇰🇷)
+- Learning Languages (🇫🇷 🇪🇸 🇰🇷)
 - Playing sport 🤽
 
 ### My Work
 Here are some things I've been doing recently:</p>
 <ul>
 <li>Competitive Programming: <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a> 👨‍💻
-<li>Practicing MERN Stack with my: <a href="https://website-change-alert.vercel.app/">Website Change Alert Project</a>
+<li>Practicing MERN Stack with my <a href="https://website-change-alert.vercel.app/">Website Change Alert Project</a>
 <li>Starting my degree at <a href="https://www.doc.ic.ac.uk/~hs1522/">Imperial College</a></li>
 <li>Participating in <a href="https://mlh.io/">Hackathons</a> with friends!</li>
 </ul>
