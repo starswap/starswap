@@ -4,20 +4,19 @@
  [![General badge](https://img.shields.io/badge/Contact-Me-f00202?logo=gmail&labelColor=white)](mailto:hamishstarling@hotmail.co.uk)
  [![General badge](https://tinyurl.com/y4b24vw2)](https://open.kattis.com/users/hamish-starling)
 
- 
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
 - Riding on trains 🚈
 - Learning Languages (🇫🇷 🇪🇸 🇰🇷)
 - Playing sport 🤽
 
-### My Work
-Here are some things I've been doing recently:</p>
+### Activity
+Here are some things I'm up to this summer:</p>
 <ul>
-<li>Competitive Programming: <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a> 👨‍💻
-<li>Practicing MERN Stack with my <a href="https://website-change-alert.vercel.app/">Website Change Alert Project</a>
-<li>Starting my degree at <a href="https://www.doc.ic.ac.uk/~hs1522/">Imperial College</a></li>
-<li>Participating in <a href="https://mlh.io/">Hackathons</a> with friends!</li>
+	<li>Showing off our <a href="https://github.com/TomSmail/Lazarus">end of year project</a> at Imperial College Open Day</li>
+<li>Competitive Programming training for <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a>
+<li>Starting my internship with <a href="https://www.softwire.com/">Softwire</a></li>
+<li>Attending <a href="https://c2c-ctf-2023.cysec-lab.keio.ac.jp/">C2C CTF finals</a> at Keio University</li>
 </ul>
 
 </div>
@@ -25,25 +24,24 @@ Here are some things I've been doing recently:</p>
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://codeforces.com/predownloaded/47/51/4751e1ebf0953b936928950b80bde1c95d3c9a42.png" width=100% />
+			<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/ICPC_International_Collegiate_Programming_Contest_logo%2C_Aug_2018.png" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://github.com/starswap/WebsiteChangeAlert/blob/main/Main_Screen.png" width=100% />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Old_Keio_University_Library_3.jpg/360px-Old_Keio_University_Library_3.jpg" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://pxl-imperialacuk.terminalfour.net/fit-in/453x290/prod01/channel_2/media/migration/media/sign_news_releases--tojpeg_1584977567570_x4.jpg" width=100% />
+			<img src="https://user-images.githubusercontent.com/67635582/249276890-810e3b11-ab37-4446-a492-1c53928f8bec.png" width=100% />
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"> <a href="https://www.facebook.com/codingcompetitions/hacker-cup">Meta Hacker Cup</a></td>
-		<td align="center"> <a href="https://website-change-alert.vercel.app/">Website Change Alert</a></td>
-		<td align="center" width="33%"> <a href="https://www.imperial.ac.uk/computing/">Imperial College London</a></td>
+		<td align="center" width="33%"> <a href="https://icpc.global/">ICPC</a></td>
+		<td align="center"> <a href="https://www.keio.ac.jp/en/">Keio University</a></td>
+		<td align="center" width="33%"> <a href="https://github.com/TomSmail/Lazarus">End of Year Project</a></td>
 	</tr>
 </table>
 
 <!--
 #### Currently Reading
-I'm currently reading: **On Lisp** by **Paul Graham**.
 -->
 <!--
 **starswap/starswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
