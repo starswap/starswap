@@ -15,7 +15,7 @@ Here are some things I'm up to this summer:</p>
 <ul>
 	<li>Showing off our <a href="https://github.com/TomSmail/Lazarus">end of year project</a> at Imperial College Open Day</li>
 <li>Competitive Programming training for <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a>
-<li>Starting my internship with <a href="https://www.softwire.com/">Softwire</a></li>
+<li>Internship with <a href="https://www.softwire.com/">Softwire</a></li>
 <li>Attending <a href="https://c2c-ctf-2023.cysec-lab.keio.ac.jp/">C2C CTF finals</a> at Keio University</li>
 </ul>
 
