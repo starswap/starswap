@@ -15,7 +15,7 @@ Here are some things I'm up to this autumn:</p>
 <ul>
 	<li>Presenting our <a href="https://github.com/TomSmail/Lazarus">end of year project</a> at Imperial College Open Day</li>
 	<li>Competitive Programming: <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a></li>
-	<li>Taking French IV with <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
+	<li>Taking French V with <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
 </ul>
 
 
