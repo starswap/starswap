@@ -11,10 +11,11 @@ Aside from Computer Programming my favourite things to do are:
 - Playing sport 🤽
 
 ### Activity
-Here are some things I'm up to this autumn:</p>
+Here are some things I'm up to this winter:</p>
 <ul>
-	<li>Presenting our <a href="https://github.com/TomSmail/Lazarus">end of year project</a> at Imperial College Open Day</li>
-	<li>Competitive Programming: <a href="http://ukiepc.info/2022/">UKIEPC</a> and <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2">Meta Hacker Cup</a></li>
+	<li>Enjoying London in the snow (hopefully...)</li>
+	<li>Implementing virtual memory in the <a href="https://www.doc.ic.ac.uk/~mjw03/OSLab/pintos.pdf">Imperial Pintos Lab</a></li>
+	<li>Advent of Code! <a href="https://github.com/starswap/adventofcode2023">in Haskell!</a>
 	<li>Taking French V with <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
 </ul>
 
@@ -22,19 +23,19 @@ Here are some things I'm up to this autumn:</p>
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://user-images.githubusercontent.com/67635582/249276890-810e3b11-ab37-4446-a492-1c53928f8bec.png" width=100% />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/ICPC_International_Collegiate_Programming_Contest_logo%2C_Aug_2018.png" width=100% />
+			<img src="https://cdn.pixabay.com/photo/2022/12/19/19/58/pinto-beans-7666438_1280.jpg" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Photo_of_the_Eiffel_Tower_taken_with_an_iPhone_13_Pro.jpg" width=100% />
+			<img src="https://images.pexels.com/photos/7245359/pexels-photo-7245359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width=100% />
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"> <a href="https://github.com/TomSmail/Lazarus">End of Year Project</a></td>
-		<td align="center" width="33%"> <a href="https://icpc.global/">ICPC</a></td>
-		<td align="center" width="33%"> <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></td>
+		<td align="center" width="33%"> <a href="https://adventofcode.com/">Advent of Code</a></td>
+		<td align="center" width="33%"> Probably not pinto beans... </td>
+		<td align="center" width="33%"> Maybe we'll get a non-stock photo... </td>
 	</tr>
 </table>
 
