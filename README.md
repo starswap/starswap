@@ -7,7 +7,7 @@
  
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
-- Riding on trains 🚈
+- Riding on trains 🚅🚃🚃🚃🚃🚃
 - Learning Languages (🇫🇷 🇪🇸 🇳🇱 🇰🇷)
 - Playing sport 🤽
 
@@ -16,7 +16,7 @@ Here are some things I'm up to for 2024:</p>
 <ul>
 	<li>WACC Compilers project at Imperial in <a href="https://www.scala-lang.org/">Scala</a></li>
 	<li>Competitive Programming Training for Hacker Cup and ICPC</li>
-	<li>Taking French V with <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
+	<li>Reading « Art » (Yasmina Reza) for <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
 	<li>Competing in <a href="https://prologin.org/about/contest">Prologin</a>, concours d'informatique.</li>
 </ul>
 
