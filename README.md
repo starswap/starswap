@@ -3,39 +3,39 @@
  [![General badge](https://img.shields.io/badge/Compare-Streaks-0cb01d?logo=duolingo)](https://www.duolingo.com/u/215135135)
  [![General badge](https://img.shields.io/badge/Contact-Me-f00202?logo=gmail&labelColor=white)](mailto:hamishstarling@hotmail.co.uk)
  [![General badge](https://tinyurl.com/y4b24vw2)](https://open.kattis.com/users/hamish-starling)
-
+ [![General badge](http://tinyurl.com/52xt5vuy)](https://codeforces.com/profile/Starswap)
+ 
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
 - Riding on trains 🚈
-- Learning Languages (🇫🇷 🇪🇸 🇰🇷)
+- Learning Languages (🇫🇷 🇪🇸 🇳🇱 🇰🇷)
 - Playing sport 🤽
 
 ### Activity
-Here are some things I'm up to this winter:</p>
+Here are some things I'm up to for 2024:</p>
 <ul>
-	<li>Enjoying London in the snow (hopefully...)</li>
-	<li>Implementing virtual memory in the <a href="https://www.doc.ic.ac.uk/~mjw03/OSLab/pintos.pdf">Imperial Pintos Lab</a></li>
-	<li>Advent of Code! <a href="https://github.com/starswap/adventofcode2023">in Haskell!</a>
+	<li>WACC Compilers project at Imperial in <a href="https://www.scala-lang.org/">Scala</a></li>
+	<li>Competitive Programming Training for Hacker Cup and ICPC</li>
 	<li>Taking French V with <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
+	<li>Competing in <a href="https://prologin.org/about/contest">Prologin</a>, concours d'informatique.</li>
 </ul>
-
 
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" width=100% />
+			<img src="https://codeforces.com/predownloaded/70/6b/706b83380c0e3cf2db8d50e5d79d17ddc458751e.png" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://cdn.pixabay.com/photo/2022/12/19/19/58/pinto-beans-7666438_1280.jpg" width=100% />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width=100% />
 		</td>
-		<td width="33%" style="text-align: center;">
-			<img src="https://images.pexels.com/photos/7245359/pexels-photo-7245359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width=100% />
+		<td width="33%" style="text-align: center;" align="center">
+			<img src="https://github.com/starswap/starswap/assets/37508609/4cd6166c-c8a2-4051-91ea-75051bdc6614" width=85% />
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"> <a href="https://adventofcode.com/">Advent of Code</a></td>
-		<td align="center" width="33%"> Probably not pinto beans... </td>
-		<td align="center" width="33%"> Maybe we'll get a non-stock photo... </td>
+		<td align="center" width="33%"><a href="https://www.facebook.com/codingcompetitions/hacker-cup">Meta Hacker Cup</a></td>
+		<td align="center" width="33%"><a href="https://www.scala-lang.org/">Scala Programming Language</a></td>
+		<td align="center" width="33%"><a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></td>
 	</tr>
 </table>
 
