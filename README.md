@@ -12,30 +12,29 @@ Aside from Computer Programming my favourite things to do are:
 - Playing sport 🤽
 
 ### Activity
-Here are some things I'm up to for 2024:</p>
+Here are some things I'm up to for Summer 2024:</p>
 <ul>
-	<li>WACC Compilers project at Imperial in <a href="https://www.scala-lang.org/">Scala</a></li>
+	<li>Competing in the final of <a href="https://prologin.org/about/contest">Prologin</a>, concours d'informatique.</li>
 	<li>Competitive Programming Training for Hacker Cup and ICPC</li>
-	<li>Reading « Art » (Yasmina Reza) for <a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></li>
-	<li>Competing in <a href="https://prologin.org/about/contest">Prologin</a>, concours d'informatique.</li>
+	<li>Learning more about compilers, effects and C++</li>
 </ul>
 
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://codeforces.com/predownloaded/70/6b/706b83380c0e3cf2db8d50e5d79d17ddc458751e.png" width=100% />
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Prologin.svg/1200px-Prologin.svg.png" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width=100% />
+			<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/ICPC_International_Collegiate_Programming_Contest_logo%2C_Aug_2018.png" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;" align="center">
-			<img src="https://github.com/starswap/starswap/assets/37508609/4cd6166c-c8a2-4051-91ea-75051bdc6614" width=85% />
+			<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" width=85% />
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"><a href="https://www.facebook.com/codingcompetitions/hacker-cup">Meta Hacker Cup</a></td>
-		<td align="center" width="33%"><a href="https://www.scala-lang.org/">Scala Programming Language</a></td>
-		<td align="center" width="33%"><a href="https://www.imperial.ac.uk/horizons/">Imperial Horizons</a></td>
+		<td align="center" width="33%"><a href="https://prologin.org/">Prologin</a></td>
+		<td align="center" width="33%"><a href="https://icpc.global/">ICPC</a></td>
+		<td align="center" width="33%">C++</td>
 	</tr>
 </table>
 
