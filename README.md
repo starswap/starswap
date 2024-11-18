@@ -12,29 +12,29 @@ Aside from Computer Programming my favourite things to do are:
 - Playing sport 🤽
 
 ### Activity
-Here are some things I'm up to for Summer 2024:</p>
+Here are some things I'm up to for Winter 2024:</p>
 <ul>
-	<li>Competing in the final of <a href="https://prologin.org/about/contest">Prologin</a>, concours d'informatique.</li>
-	<li>Competitive Programming Training for Hacker Cup and ICPC</li>
-	<li>Learning more about compilers, effects and C++</li>
+	<li>Advent of Code : ) </li>
+	<li>Exams : ( </li>
+	<li>Type Systems : )</li>
 </ul>
 
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Prologin.svg/1200px-Prologin.svg.png" width=100% />
+			<img src="https://www.ddanieltan.com/posts/aocScala/aocLogo.jpeg" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/ICPC_International_Collegiate_Programming_Contest_logo%2C_Aug_2018.png" width=100% />
+			<img src="https://www.igniteastar.com/wp-content/uploads/2021/07/0000_191111_autumn_library_queens_lawn_001-tojpeg_1583940105577_x1-1024x462.jpg" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;" align="center">
-			<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" width=85% />
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXypmzovPDkIzGP_P3KQmC99k6RFDmgI47uA&s" width=85% />
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"><a href="https://prologin.org/">Prologin</a></td>
-		<td align="center" width="33%"><a href="https://icpc.global/">ICPC</a></td>
-		<td align="center" width="33%">C++</td>
+		<td align="center" width="33%"><a href="https://adventofcode.com/">Advent of Code</a></td>
+		<td align="center" width="33%">Exams</a></td>
+		<td align="center" width="33%">Type Systems</td>
 	</tr>
 </table>
 
