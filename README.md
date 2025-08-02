@@ -8,33 +8,33 @@
 ### About Me
 Aside from Computer Programming my favourite things to do are: 
 - Riding on trains 🚅🚃🚃🚃🚃🚃
-- Learning Languages (🇫🇷 🇪🇸 🇳🇱 🇰🇷)
+- Learning Languages (🇫🇷 🇳🇱 🇪🇸 🇰🇷)
 - Playing sport 🤽
 
 ### Activity
-Here are some things I'm up to for Winter 2024:</p>
+Here are some things I'm up to for Summer/Autumn 2025:</p>
 <ul>
-	<li>Advent of Code : ) </li>
-	<li>Exams : ( </li>
-	<li>Type Systems : )</li>
+	<li>Finishing off Industrial Placement at Optiver 🇳🇱</li>
+	<li>Moving to Lausanne for Year Abroad 🇨🇭 </li>
+	<li>Competitive Programming Training for next season!</li>
 </ul>
 
 <table>
 	<tr>
 		<td width="33%" style="text-align: center;">
-			<img src="https://www.ddanieltan.com/posts/aocScala/aocLogo.jpeg" width=100% />
+			<img src="https://cdn.pixabay.com/photo/2017/08/19/16/09/canal-2659062_1280.jpg" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;">
-			<img src="https://www.igniteastar.com/wp-content/uploads/2021/07/0000_191111_autumn_library_queens_lawn_001-tojpeg_1583940105577_x1-1024x462.jpg" width=100% />
+			<img src="https://cdn.pixabay.com/photo/2017/07/02/09/21/helm-2463837_1280.jpg" width=100% />
 		</td>
 		<td width="33%" style="text-align: center;" align="center">
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXypmzovPDkIzGP_P3KQmC99k6RFDmgI47uA&s" width=85% />
+			<img src="https://avatars.githubusercontent.com/u/5224374?s=280&v=4" width=85% />
 		</td>
 	</tr>
 	<tr style="text-align: center;">
-		<td align="center" width="33%"><a href="https://adventofcode.com/">Advent of Code</a></td>
-		<td align="center" width="33%">Exams</a></td>
-		<td align="center" width="33%">Type Systems</td>
+		<td align="center" width="33%">Amsterdam</td>
+		<td align="center" width="33%">Lausanne</td>
+		<td align="center" width="33%">ICPC</td>
 	</tr>
 </table>
 
